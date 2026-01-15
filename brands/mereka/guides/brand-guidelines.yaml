@@ -1,0 +1,73 @@
+schema_version: 1
+brand: mereka
+source_pdf: brand-guidelines.pdf
+sections:
+  logos:
+    composition: Octothorpe and logotype set in Lato.
+    primary_logo: Horizontal logo.
+    background_logo_usage: Intended for large-scale use; avoid small sizes.
+    usage_rules:
+    - Always use the logo files provided.
+    - Do not re-create the logo.
+  colors:
+    primary_hex:
+    - '#000000'
+    - '#ffffff'
+    - '#2d898b'
+    - '#ab3b78'
+    - '#295cad'
+    secondary_hex:
+    - '#8c002f'
+    - '#cd89ae'
+    - '#94d1e4'
+    - '#e18437'
+    - '#f4be48'
+    - '#8fbec2'
+    - '#295cad'
+    - '#7f9dce'
+    - '#2c6e49'
+    note: 'The guide shows #295cad in both primary and secondary palettes.'
+  typography:
+    headers_subheaders:
+      family: Lato
+    body_text:
+      family: Poppins
+  internal_partnership_lockup:
+    usage: Approved internal partnerships.
+    lockup_position:
+    - left
+    - top
+    clear_space: Equal to the size of the octothorpe.
+    divider: Vertical line dividing clear space in half.
+    alignment: Partner logos aligned to the optical baseline of the logotype.
+    lockup_variant: Mereka Group (when all Mereka brands are involved).
+    donts:
+    - Do not pair the octothorpe alone with partner logos; always use the full logo.
+    - Do not use the Mereka name or marks as part of your own.
+    - Do not use Mereka in advertising without explicit approval.
+    - Do not use Mereka assets or similar words or marks on apparel or merchandise.
+  video:
+    lower_thirds:
+      style: Clean and clear.
+      names_font: Open Sans Bold
+      titles_font: Lato Regular
+      background_opacity: 80%
+    ending_slates: All videos should end with the Mereka logo, animated or still.
+    watermarks:
+      position: upper left
+      opacity: 50%
+visual_references:
+- page: 1
+  description: Cover (Brand Guideline).
+- page: 2
+  description: Logo layout and usage examples.
+- page: 3
+  description: Primary and secondary color swatches.
+- page: 4
+  description: Lato typography examples.
+- page: 5
+  description: Poppins typography examples.
+- page: 6
+  description: Internal partnership lockup layout and spacing.
+- page: 7
+  description: Video guidance layout examples.

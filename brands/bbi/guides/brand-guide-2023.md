@@ -226,3 +226,34 @@ www.biji-biji.com
 www.linkedin.com/company/bijibijiinitiative
 @bijibiji.initiative
 www.facebook.com/bijibijiinitiative
+
+## Visual references (PDF pages)
+
+These pages are visual-only or rely on diagrams and should be referenced in the PDF.
+
+- Page 1: Cover (Branding Guideline 2023).
+- Page 2: Index layout.
+- Page 5: Logo Usage section title page.
+- Page 6: Logo placement examples.
+- Page 7: Spelling examples for the brand name.
+- Page 8: Logo restrictions diagram.
+- Page 9: Minimum size guidance diagram.
+- Page 10: Color usage example.
+- Page 11: White space diagram (x-space and y-space).
+- Page 12: Logo position and isolation zone diagram.
+- Page 13: Email signature layout.
+- Page 14: Corporate Colour & Typeface section title page.
+- Page 15: Corporate color swatches.
+- Page 16: Typeface examples for Raleway.
+- Page 17: Content Development section title page.
+- Page 18: Post and carousel aspect ratio examples.
+- Page 19: Story, reel, and video aspect ratio examples.
+- Page 20: Negative space for posts and carousels (70px example).
+- Page 21: Negative space for video (platform overlay example).
+- Page 22: Margin and bleed layout.
+- Page 23: Canvas and export sizing table.
+- Page 24: Contact Details section title page.
+- Page 25: Namecard layout.
+- Page 26: Letterhead layout.
+- Page 27: Buntings layout.
+- Page 28: Contact details layout.

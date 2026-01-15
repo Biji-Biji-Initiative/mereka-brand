@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "brand": "bbi",
+  "source_pdf": "logo-usage-2023.pdf",
+  "sections": {
+    "logo_usage": {
+      "logo_requirement": "The logo must feature prominently in all visual communications, standing alone without amalgamation with other symbols or graphics.",
+      "prominently_displayed": "Position the logo on the cover or at the outset of visual communications, maintain clear space, and adhere to minimum size for visibility.",
+      "primary_logo_required": "Required on all print media, advertising, websites, other media, and external communications.",
+      "spelling": {
+        "correct_style": "Biji-biji Initiative",
+        "capitalization": "Only the initial \"Biji\" is capitalized.",
+        "initiative_singular": "Initiative is singular and should not include an s.",
+        "examples": [
+          "Biji-biji Initiative - Correctly spelled",
+          "Biji-Biji Initiative - Only first biji is capitalized",
+          "Biji-biji Initiatives - Initiative is singular"
+        ]
+      },
+      "restrictions": [
+        "Do not stray from the color palette.",
+        "Do not rearrange elements of the logo.",
+        "Do not stretch or distort the logo.",
+        "Do not change the orientation of the logo.",
+        "Do not use drop shadows when reproducing the logo."
+      ],
+      "size": {
+        "minimum_width_mm": 15,
+        "preferred_sizes_mm": {
+          "smallest_size": 15,
+          "name_card": 15,
+          "a4": ">25",
+          "a3": ">35"
+        }
+      },
+      "color": {
+        "primary": {
+          "name": "BLACK",
+          "hex": "#000000"
+        },
+        "alternative": {
+          "name": "WHITE",
+          "hex": "#ffffff"
+        },
+        "note": "Avoid placing the logo on surfaces with deeper colors for visibility."
+      },
+      "white_space": "Maintain x-space and y-space when scaling the logo.",
+      "position": {
+        "note": "Use isolation zone rules for readability and recognition.",
+        "watermark_requirement": "Watermark must be added to all photos posted on social media and shared with the public, including press."
+      }
+    },
+    "corporate_colour_typeface": {
+      "corporate_colour": {
+        "primary": [
+          "#000000",
+          "#ffffff"
+        ],
+        "alternative": "Grayscale"
+      },
+      "typeface": {
+        "family": "Raleway",
+        "weights": [
+          "Regular",
+          "Light",
+          "Bold",
+          "Black"
+        ]
+      }
+    }
+  },
+  "visual_references": [
+    {
+      "page": 1,
+      "description": "Logo Usage title page."
+    },
+    {
+      "page": 2,
+      "description": "Logo placement examples."
+    },
+    {
+      "page": 3,
+      "description": "Spelling examples for the brand name."
+    },
+    {
+      "page": 4,
+      "description": "Logo restrictions diagram."
+    },
+    {
+      "page": 5,
+      "description": "Minimum size guidance diagram."
+    },
+    {
+      "page": 6,
+      "description": "Color usage example."
+    },
+    {
+      "page": 7,
+      "description": "White space diagram (x-space and y-space)."
+    },
+    {
+      "page": 8,
+      "description": "Logo position and isolation zone diagram."
+    },
+    {
+      "page": 9,
+      "description": "Corporate Colour & Typeface section title page."
+    },
+    {
+      "page": 10,
+      "description": "Corporate color swatches."
+    },
+    {
+      "page": 11,
+      "description": "Typeface examples for Raleway."
+    }
+  ]
+}

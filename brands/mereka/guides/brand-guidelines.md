@@ -67,3 +67,15 @@ We also kindly ask that you adhere to the following:
   regular and backgrounds set to 80% opacity.
 - Ending slates: All videos should end with the Mereka logo, animated or still.
 - Watermarked logos: Watermarked logos should be placed in the upper left at 50% opacity.
+
+## Visual references (PDF pages)
+
+These pages are visual-only or rely on diagrams and should be referenced in the PDF.
+
+- Page 1: Cover (Brand Guideline).
+- Page 2: Logo layout and usage examples.
+- Page 3: Primary and secondary color swatches.
+- Page 4: Lato typography examples.
+- Page 5: Poppins typography examples.
+- Page 6: Internal partnership lockup layout and spacing.
+- Page 7: Video guidance layout examples.

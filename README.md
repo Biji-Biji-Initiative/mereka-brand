@@ -14,6 +14,8 @@ bbbi-mereka-brand-assets/
 │   │   ├── guides/
 │   │   │   ├── brand-guidelines.pdf
 │   │   │   ├── brand-guidelines.md
+│   │   │   ├── brand-guidelines.yaml
+│   │   │   ├── brand-guidelines.json
 │   │   │   └── implementation.md
 │   │   ├── icons/
 │   │   │   └── favicon/
@@ -27,8 +29,12 @@ bbbi-mereka-brand-assets/
 │       ├── guides/
 │       │   ├── brand-guide-2023.pdf
 │       │   ├── brand-guide-2023.md
+│       │   ├── brand-guide-2023.yaml
+│       │   ├── brand-guide-2023.json
 │       │   ├── logo-usage-2023.pdf
-│       │   └── logo-usage-2023.md
+│       │   ├── logo-usage-2023.md
+│       │   ├── logo-usage-2023.yaml
+│       │   └── logo-usage-2023.json
 │       ├── icons/
 │       │   └── favicon/
 │       ├── logos/
@@ -48,6 +54,9 @@ bbbi-mereka-brand-assets/
   `brands/bbi/guides/brand-guide-2023.pdf` (official PDF).
 - BBI logo usage: `brands/bbi/guides/logo-usage-2023.md` (text extract) and
   `brands/bbi/guides/logo-usage-2023.pdf` (logo usage subset PDF).
+- Structured data (YAML/JSON): `brands/mereka/guides/brand-guidelines.yaml`,
+  `brands/bbi/guides/brand-guide-2023.yaml`, and `brands/bbi/guides/logo-usage-2023.yaml`
+  (JSON equivalents with the same names).
 
 ## Usage
 

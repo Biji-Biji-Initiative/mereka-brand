@@ -1,0 +1,190 @@
+schema_version: 1
+brand: bbi
+source_pdf: brand-guide-2023.pdf
+sections:
+  introduction:
+    who_we_are: The Biji-biji Initiative is an environmentally focused organization
+      founded in June 2013 by a group of eco-conscious individuals. Central to its
+      mission is the cultivation of changemakers through social and environmental
+      impact accelerator programs. By facilitating access to education and innovative
+      solutions, Biji-biji seeks to reinforce the larger sustainability ecosystem.
+    values:
+    - title: ARTICULATE INTENTIONS THROUGH ACTION AND INNOVATION
+      description: To be purposeful in all we do, to drive towards a common good.
+    - title: PRACTICE RESILIENCE AND PERSEVERENCE
+      description: To embrace change and challenges with grace and grit.
+    - title: EMBODY HUMILITY AND AUTHENTICITY
+      description: To be kind, real, and true to oneself and one another in any situation.
+    - title: BE BOLD AND CREATIVE IN BREAKING BOUNDARIES
+      description: To think beyond the norm in problem-solving and reaching greater
+        heights.
+    - title: STAND FOR INCLUSIVE AND SUSTAINABLE GROWTH
+      description: To always strive for growth, individually and collectively, for
+        humanity and the environment.
+  logo_usage:
+    logo_requirement: The logo must feature prominently in all visual communications,
+      standing alone without amalgamation with other symbols or graphics.
+    prominently_displayed: Position the logo on the cover or at the outset of visual
+      communications, maintain clear space, and adhere to minimum size for visibility.
+    primary_logo_required: Required on all print media, advertising, websites, other
+      media, and external communications.
+    spelling:
+      correct_style: Biji-biji Initiative
+      capitalization: Only the initial "Biji" is capitalized.
+      initiative_singular: Initiative is singular and should not include an s.
+      examples:
+      - Biji-biji Initiative - Correctly spelled
+      - Biji-Biji Initiative - Only first biji is capitalized
+      - Biji-biji Initiatives - Initiative is singular
+    restrictions:
+    - Do not stray from the color palette.
+    - Do not rearrange elements of the logo.
+    - Do not stretch or distort the logo.
+    - Do not change the orientation of the logo.
+    - Do not use drop shadows when reproducing the logo.
+    size:
+      minimum_width_mm: 15
+      preferred_sizes_mm:
+        smallest_size: 15
+        name_card: 15
+        a4: '>25'
+        a3: '>35'
+    color:
+      primary:
+        name: BLACK
+        hex: '#000000'
+      alternative:
+        name: WHITE
+        hex: '#ffffff'
+      note: Avoid placing the logo on surfaces with deeper colors for visibility.
+    white_space: Maintain x-space and y-space when scaling the logo.
+    position:
+      note: Use isolation zone rules for readability and recognition.
+      watermark_requirement: Watermark must be added to all photos posted on social
+        media and shared with the public, including press.
+    email_signature: This e-mail signature must be used by every member of staff at
+      Biji-biji.
+  corporate_colour_typeface:
+    corporate_colour:
+      primary:
+      - '#000000'
+      - '#ffffff'
+      alternative: Grayscale
+    typeface:
+      family: Raleway
+      weights:
+      - Regular
+      - Light
+      - Bold
+      - Black
+  digital_content:
+    aspect_ratios:
+      post_carousel:
+      - ratio: '1:1'
+        size_px: 1080x1080
+      - ratio: '5:4'
+        size_px: 1350x1080
+        recommendation: most_recommended
+      - ratio: '3:2'
+        size_px: 1620x1080
+        recommendation: recommended
+      story_reel_video:
+      - ratio: '1:1'
+        size_px: 1080x1080
+      - ratio: '4:5'
+        size_px: 1080x1350
+        recommendation: recommended
+      - ratio: '2:3'
+        size_px: 1080x1650
+      - ratio: '9:16'
+        size_px: 1080x1920
+        recommendation: most_recommended
+    negative_space:
+      posts_carousels_min_px: 70
+      video_note: Provide enough negative space so platform navigation bars do not
+        interfere with content.
+    margin_bleed: Use proper margins to give breathing room to readers. For print
+      materials, include bleed to avoid white strips after trimming.
+    canvas_export:
+      resolution: 1080p
+      note: Use a 2x canvas to reduce compression loss, export at standard sizes.
+      table:
+      - ratio: '1:1'
+        canvas_px: 2160x2160
+        export_px: 1080x1080
+      - ratio: '4:5'
+        canvas_px: 2160x2700
+        export_px: 1080x1350
+      - ratio: '16:9'
+        canvas_px: 3840x2160
+        export_px: 1920x1080
+  contact_details:
+    company: Biji Biji Design Sdn Bhd
+    founded: November 2012
+    registration: 1050659-D
+    hq_office:
+      address: Lot 1-3 Level G1, Publika Shopping Gallery, Jalan Dutamas 1, 50480
+        Kuala Lumpur
+      phone: +603 - 6419 4755 / 4756
+    factory:
+      address: No 12 Jalan Perusahaan 27/K, Taman Perindustrian, Pandamaran 42000
+        Klang
+      phone: 014 939 4829 (William)
+    web_social:
+    - www.biji-biji.com
+    - www.linkedin.com/company/bijibijiinitiative
+    - '@bijibiji.initiative'
+    - www.facebook.com/bijibijiinitiative
+visual_references:
+- page: 1
+  description: Cover (Branding Guideline 2023).
+- page: 2
+  description: Index layout.
+- page: 5
+  description: Logo Usage section title page.
+- page: 6
+  description: Logo placement examples.
+- page: 7
+  description: Spelling examples for the brand name.
+- page: 8
+  description: Logo restrictions diagram.
+- page: 9
+  description: Minimum size guidance diagram.
+- page: 10
+  description: Color usage example.
+- page: 11
+  description: White space diagram (x-space and y-space).
+- page: 12
+  description: Logo position and isolation zone diagram.
+- page: 13
+  description: Email signature layout.
+- page: 14
+  description: Corporate Colour & Typeface section title page.
+- page: 15
+  description: Corporate color swatches.
+- page: 16
+  description: Typeface examples for Raleway.
+- page: 17
+  description: Content Development section title page.
+- page: 18
+  description: Post and carousel aspect ratio examples.
+- page: 19
+  description: Story, reel, and video aspect ratio examples.
+- page: 20
+  description: Negative space for posts and carousels (70px example).
+- page: 21
+  description: Negative space for video (platform overlay example).
+- page: 22
+  description: Margin and bleed layout.
+- page: 23
+  description: Canvas and export sizing table.
+- page: 24
+  description: Contact Details section title page.
+- page: 25
+  description: Namecard layout.
+- page: 26
+  description: Letterhead layout.
+- page: 27
+  description: Buntings layout.
+- page: 28
+  description: Contact details layout.

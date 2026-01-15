@@ -96,3 +96,19 @@ The typeface family "Raleway" has been selected for corporate use.
 - Raleway Light
 - Raleway Bold
 - Raleway Black
+
+## Visual references (PDF pages)
+
+These pages are visual-only or rely on diagrams and should be referenced in the PDF.
+
+- Page 1: Logo Usage title page.
+- Page 2: Logo placement examples.
+- Page 3: Spelling examples for the brand name.
+- Page 4: Logo restrictions diagram.
+- Page 5: Minimum size guidance diagram.
+- Page 6: Color usage example.
+- Page 7: White space diagram (x-space and y-space).
+- Page 8: Logo position and isolation zone diagram.
+- Page 9: Corporate Colour & Typeface section title page.
+- Page 10: Corporate color swatches.
+- Page 11: Typeface examples for Raleway.
