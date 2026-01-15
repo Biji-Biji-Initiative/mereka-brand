@@ -3,7 +3,7 @@
 This document is a text extraction from `brand-guidelines.pdf` for quick reference.
 Use the PDF for visual examples, sizing diagrams, and lockup layouts.
 
-## Logos
+## Our logos
 
 - The logo is composed of an octothorpe and a logotype set in Lato.
 - The horizontal logo is the primary logo and should be used in most situations.
@@ -41,7 +41,7 @@ Note: The guide shows `#295cad` in both primary and secondary palettes.
 ## Typography
 
 - Headers and subheaders: Lato
-- Body text: Poppins
+- Body text and paragraphs: Poppins
 
 ## Internal partnership lockup
 
@@ -49,10 +49,10 @@ Note: The guide shows `#295cad` in both primary and secondary palettes.
 - Lock up the Mereka logo with a partner logo, placing the Mereka logo to the left or top.
 - Clear space between logos should equal the size of the octothorpe, divided by a vertical line.
 - Both logos should feel equal in size and align to the optical baseline of the logotype.
-- "Mereka Group" lockup is used when all Mereka brands are involved.
+- The "Mereka Group" lockup is used when all Mereka brands are involved.
 
 Do not:
-- Pair the octothorpe alone with partner logos.
+- Pair the octothorpe alone with partner logos; always use the full Mereka logo.
 - Use the Mereka name or marks as part of your own.
 - Use Mereka in advertising without explicit approval.
 - Use Mereka assets or similar words or marks on apparel or merchandise.
