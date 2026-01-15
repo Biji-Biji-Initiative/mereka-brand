@@ -1,75 +1,92 @@
-# Biji-biji Initiative Logo Usage (2023) (Extracted)
+# Biji-biji Initiative Logo Usage 2023 (Extracted)
 
-This document is a text extraction from `logo-usage-2023.pdf` for quick reference.
-Use the PDF for visual examples, sizing diagrams, and isolation zone layouts.
+Source: `logo-usage-2023.pdf`.
+This file captures the readable text from the PDF for quick reference. Use the PDF
+for layouts, diagrams, and visual examples.
 
-## Logo usage
+## The logo
 
-### The logo
+The Biji-biji logo must feature prominently in all visual communications, standing alone
+without amalgamation with other symbols or graphics. "Prominently displayed" denotes
+positioning the logo on the cover or at the outset of visual communications, maintaining
+clear space for readability, and adhering to the stipulated minimum size to preserve
+visibility and impact.
 
-- The logo must feature prominently in all visual communications and stand alone without amalgamation with other symbols or graphics.
-- "Prominently displayed" means positioned on the cover or at the outset of visual communications, with clear space and minimum size for legibility.
-- The primary logo is required on all print media, advertising, websites, other media, and external communications.
+The primary logo is required on all print media (brochures, periodicals, etc.), all advertising,
+websites, all other media, and external communications according to appropriate guidelines.
 
-### The spelling
+## The spelling
 
-The brand name is stylized as "Biji-biji Initiative" with only the initial "Biji" capitalized.
-"Initiative" is singular and should not include an "s".
+Our brand name is meticulously stylized as "Biji-biji Initiative." Note that only the initial "Biji"
+is capitalized, emphasizing the organic and interconnected nature of our innovative
+initiatives. Furthermore, "Initiative" is deliberately spelled without an "s," underscoring the
+singular focus and commitment embedded in our approach.
 
-Examples from the guide:
-- Biji-biji Initiative: correctly spelled.
-- Biji-Biji Initiative: only the first "biji" is capitalized.
-- Biji-biji Initiatives: "Initiative" is singular.
+Biji-biji Initiative - Correctly spelled
+Biji-Biji Initiative - Only first "biji" is capitalized
+Biji-biji Initiatives - "Initiative" is singular
 
-### The restrictions
+## The restrictions
 
-- Do not stray from the color palette.
-- Do not rearrange logo elements.
-- Do not stretch or distort the logo.
-- Do not change logo orientation.
-- Do not use drop shadows.
+To ensure the consistency and legibility of the logo, there are certain restrictions that
+should be applied to the logo.
 
-### The size
+- Colour scheme: Do not stray from the color palette.
+- Elements of logo: Do not rearrange elements of the logo.
+- Disproportionate scaling: Do not stretch or distort the logo.
+- Logo orientation: Do not change the orientation of the logo.
+- Drop shadow: Do not use drop shadows when reproducing the logo.
 
-- Minimum width: 15mm.
-- Preferred sizes for standard paper formats:
-  - Smallest size: 15mm.
-  - Name card: 15mm.
-  - A4: greater than 25mm.
-  - A3: greater than 35mm.
+## The size
 
-### The colour
+The application of the logo must not be less than 15mm in width as it will affect the
+legibility of the logo.
 
-- The logo is always displayed in solid black to ensure visibility on a variety of surfaces.
-- Avoid placing the logo on surfaces with deeper colors where visibility drops.
-- A solid white substitute may be used when black is inappropriate.
+Preferred sizes for standard paper formats:
+- Smallest size: 15mm
+- Name card: 15mm
+- A4: >25mm
+- A3: >35mm
+
+## The colour
+
+The logo is always displayed in solid black, which was used to ensure visibility on a
+variety of surfaces. To guarantee visibility, it is advised against placing the logo on
+surfaces with deeper colors.
+
+To preserve the integrity of the logo in a variety of settings, a solid white substitute
+color may be utilized in cases when the original black is inappropriate.
 
 Original colour:
-- Black `#000000`.
+- BLACK `#000000`
 
 Alternative colour:
-- White `#ffffff`.
+- WHITE `#ffffff`
 
-### The white space
+## The white space
 
-Maintain the minimum white space (x-space and y-space) shown in the guide; keep it constant when scaling the logo.
+The minimum white space as referred to "x-space" and "y-space" is constant and is to be
+maintained when the logo is proportionally enlarged or reduced in size.
 
-### The position
+## The position
 
-- Position the logo as shown in the guide and adhere to isolation zone rules for readability and recognition.
-- Watermark must be added to all photos posted on social media and shared with the public, including press.
+When the logo is used on its own it is always positioned as shown, adhering to isolation
+zone rules. In such to ensure optimal readability and recognition of the logo.
 
-## Corporate colour and typeface
+Note: Watermark must be added to all photos posted on social media and sent to members
+of the public, including press.
+
+## Corporate colour & typeface
 
 ### Corporate colour
 
 The corporate colour is solid black and white.
 
-- Black `#000000`
-- White `#ffffff`
+BLACK `#000000`
+WHITE `#ffffff`
 
-Alternative colour:
-- Grayscale
+Alternative colour
+GRAYSCALE
 
 ### Corporate typeface
 
