@@ -7,17 +7,20 @@ Central repository for Mereka branding assets and guidelines. Use this as a refe
 ```
 mereka-brand/
 ├── logos/
-│   ├── png/              # PNG logos (various variants)
+│   ├── png/              # PNG logos
 │   └── svg/              # SVG logos (scalable)
 ├── icons/
-│   └── favicon/          # Favicon files (16, 32, 256px)
+│   └── favicon/          # Favicon files
+├── print/                # EPS files for print (CMYK)
+├── source/               # AI source files
 ├── colors/               # Color palettes
 ├── fonts/                # Typography
-├── templates/            # Design templates
-└── source/               # AI source files
+└── brand-guidelines.pdf  # Official brand guide
 ```
 
-## Logo Variants
+## Logo
+
+The Mereka logo is composed of an **octothorpe** (the connected nodes forming an "M") and a **logotype** set in Lato.
 
 | Variant | Black | White |
 |---------|-------|-------|
@@ -25,7 +28,101 @@ mereka-brand/
 | **Horizontal** | `mereka-logo-horizontal-black` | `mereka-logo-horizontal-white` |
 | **Logomark** | `mereka-logomark-black` | `mereka-logomark-white` |
 
-Available in both PNG and SVG formats.
+- **Horizontal logo** = primary logo for most situations
+- **Stacked logo** = intended for large-scale use
+- Always use provided files, do not recreate
+
+## Colors
+
+### Primary Colors
+
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Black | `#000000` | Primary text, logos |
+| White | `#ffffff` | Backgrounds, reversed logos |
+| Teal | `#2d898b` | Primary accent |
+| Magenta | `#ab3b78` | Primary accent |
+| Blue | `#295cad` | Primary accent |
+
+### Secondary Colors
+
+| Color | Hex | Description |
+|-------|-----|-------------|
+| Burgundy | `#8c002f` | |
+| Pink | `#cd89ae` | |
+| Light Blue | `#94d1e4` | |
+| Orange | `#e18437` | |
+| Yellow | `#f4be48` | |
+| Seafoam | `#8fbec2` | |
+| Periwinkle | `#7f9dce` | |
+| Forest Green | `#2c6e49` | |
+
+### CSS Variables
+
+```css
+:root {
+  /* Primary */
+  --mereka-black: #000000;
+  --mereka-white: #ffffff;
+  --mereka-teal: #2d898b;
+  --mereka-magenta: #ab3b78;
+  --mereka-blue: #295cad;
+
+  /* Secondary */
+  --mereka-burgundy: #8c002f;
+  --mereka-pink: #cd89ae;
+  --mereka-light-blue: #94d1e4;
+  --mereka-orange: #e18437;
+  --mereka-yellow: #f4be48;
+  --mereka-seafoam: #8fbec2;
+  --mereka-periwinkle: #7f9dce;
+  --mereka-forest-green: #2c6e49;
+}
+```
+
+### Tailwind Config
+
+```javascript
+colors: {
+  mereka: {
+    black: '#000000',
+    white: '#ffffff',
+    teal: '#2d898b',
+    magenta: '#ab3b78',
+    blue: '#295cad',
+    burgundy: '#8c002f',
+    pink: '#cd89ae',
+    'light-blue': '#94d1e4',
+    orange: '#e18437',
+    yellow: '#f4be48',
+    seafoam: '#8fbec2',
+    periwinkle: '#7f9dce',
+    'forest-green': '#2c6e49',
+  }
+}
+```
+
+## Typography
+
+| Use | Font | Weights |
+|-----|------|---------|
+| **Headers & Subheaders** | Lato | Thin, Light, Regular, Bold, Black |
+| **Body Text** | Poppins | Thin, Light, Regular, Medium, Bold, Black |
+| **Video Names** | Open Sans | Bold |
+| **Video Titles** | Lato | Regular |
+
+### Google Fonts Links
+
+```html
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+```
+
+## Video Guidelines
+
+- **Lower thirds**: Clean design, 80% opacity backgrounds
+- **Ending slates**: All videos end with Mereka logo
+- **Watermarks**: Upper left, 50% opacity
 
 ## Usage
 
@@ -47,6 +144,13 @@ git submodule add https://github.com/Biji-Biji-Initiative/mereka-brand.git brand
 | 32x32 | `icons/favicon/favicon-32x32.png` |
 | 256x256 | `icons/favicon/favicon-256x256.png` |
 
-## Source Files
+## Print Files
 
-Adobe Illustrator source files are in `source/` for editing.
+EPS files for print (CMYK color space) are in `print/`.
+
+## Do's and Don'ts
+
+- Always use provided logo files
+- Do not pair the logomark alone with partner logos
+- Do not use Mereka name/marks as part of your own
+- Do not use in advertising without explicit approval
